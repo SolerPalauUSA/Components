@@ -1,0 +1,41 @@
+{
+    "sliders": [
+      {
+        "image": "/images/slides/TD-125_RGB.webp",
+        "title": "TD-MIXVENT",
+        "description": "In-line duct fans designed for high airflow and low noise in compact spaces like false ceilings and cabinets. Ideal for various HVAC applications.",
+        "cta": {
+          "text": "Discover TD-MIXVENT",
+          "link": "https://www.solerpalau-usa.com/products/isdf/td-mixvent.html"
+        }
+      },
+      {
+        "image": "/images/slides/TRe90H_FrontAngleRight_RGB.webp",
+        "title": "TR SERIES",
+        "description": "Energy Recovery Ventilators (ERVs) providing balanced ventilation and energy cost reduction. Suitable for residential and commercial applications.",
+        "cta": {
+          "text": "Discover TR Series",
+          "link": "https://www.solerpalau-usa.com/products/erv/tr.html"
+        }
+      },
+      {
+        "image": "/images/slides/TD-SILENT_TD-150S_RGB.webp",
+        "title": "TD-SILENT",
+        "description": "Ultra-quiet in-line mixed flow fans for noise-sensitive applications. Ideal for residential and commercial ventilation.",
+        "cta": {
+          "text": "Discover TD-SILENT",
+          "link": "https://www.solerpalau-usa.com/products/isdf/td-silent.html"
+        }
+      },
+      {
+        "image": "/images/slides/IFHT-1_BW.webp",
+        "title": "IFFT JET FAN",
+        "description": "Efficient air movement in underground parking garages and tunnels with minimal noise and energy consumption.",
+        "cta": {
+          "text": "Discover IFFT Jet Fan",
+          "link": "https://www.solerpalau-usa.com/products/jetfans/ifft.html"
+        }
+      }
+    ]
+  }
+  

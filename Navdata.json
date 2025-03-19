@@ -1,0 +1,90 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "url": "https://www.solerpalau-usa.com/",
+      "type": "link"
+    },
+    {
+      "name": "Products",
+      "url": "https://www.solerpalau-usa.com/products.html",
+      "type": "mega",
+      "columns": [
+        {
+          "title": "Commercial",
+          "links": [
+            { "name": "Centrifugal Filtered Supply Fans", "url": "https://www.solerpalau-usa.com/products/cfsf.html" },
+            { "name": "Centrifugal Roof & Wall Fans", "url": "https://www.solerpalau-usa.com/products/crwf.html" },
+            { "name": "Energy Recovery Ventilators", "url": "https://www.solerpalau-usa.com/products/erv.html" },
+            { "name": "Gravity Vents", "url": "https://www.solerpalau-usa.com/products/gv.html" },
+            { "name": "High Volume Low Speed", "url": "https://www.solerpalau-usa.com/products/hvls.html" },
+            { "name": "Jet-Fans", "url": "https://www.solerpalau-usa.com/products/jf.html" },
+            { "name": "Roof propeller", "url": "https://www.solerpalau-usa.com/products/rpf.html" },
+            { "name": "Sidewall Propeller Fans", "url": "https://www.solerpalau-usa.com/products/spf.html" },
+            { "name": "Tubeaxial Fans", "url": "https://www.solerpalau-usa.com/products/tf.html" },
+            { "name": "Utility Fans", "url": "https://www.solerpalau-usa.com/products/uvs.html" }
+          ]
+        },
+        {
+          "title": "Residential",
+          "links": [
+            { "name": "Ceiling and Cabinet Ventilators", "url": "https://www.solerpalau-usa.com/products/ccf.html" },
+            { "name": "Energy Recovery Ventilators", "url": "https://www.solerpalau-usa.com/products/erv.html" },
+            { "name": "In-line/Sidewall Duct Fans", "url": "https://www.solerpalau-usa.com/products/isdf.html" },
+            { "name": "Premium Choice", "url": "https://www.premiumchoiceseries.com/" },
+            { "name": "reFresh", "url": "https://www.solerpalau-usa.com/products/refresh.html" }
+          ]
+        },
+        {
+          "title": "Accessories",
+          "links": [
+            { "name": "Dampers", "url": "https://www.solerpalau-usa.com/products/accessories.html?category=DAM" },
+            { "name": "Duct", "url": "https://www.solerpalau-usa.com/products/accessories.html?category=DAC" },
+            { "name": "Electronic", "url": "https://www.solerpalau-usa.com/products/accessories.html?category=EAC" },
+            { "name": "Filter and Filter Boxes", "url": "https://www.solerpalau-usa.com/products/accessories.html?category=FFB" },
+            { "name": "Grille", "url": "https://www.solerpalau-usa.com/products/accessories.html?category=GRI" },
+            { "name": "Louvers", "url": "https://www.solerpalau-usa.com/products/accessories.html?category=LOU" },
+            { "name": "Roof", "url": "https://www.solerpalau-usa.com/products/accessories.html?category=RAC" },
+            { "name": "Wall", "url": "https://www.solerpalau-usa.com/products/accessories.html?category=WAC" }
+
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resources",
+      "url": "https://www.solerpalau-usa.com/resources.html",
+      "type": "dropdown",
+      "links": [
+        { "name": "Blog", "url": "https://blog.solerpalau-usa.com/" },
+        { "name": "Branch Request", "url": "https://www.solerpalau-usa.com/sp-form/branch-request.html" },
+        { "name": "Cross Reference", "url": "https://www.solerpalau-usa.com/resources/cross-reference.html" },
+        { "name": "Fan Selection Software", "url": "https://www.solerpalau-usa.com/resources/optisizer.html" },
+        { "name": "Library", "url": "https://www.solerpalau-usa.com/resources/literature.html" },
+        { "name": "Media Gallery", "url": "https://www.solerpalau-usa.com/resources/videos.html" },
+        { "name": "New Account Setup", "url": "https://www.solerpalau-usa.com/sp-form/account-setup.html" },
+        { "name": "Revit Content", "url": "https://www.solerpalau-usa.com/resources/revit.html" },
+        { "name": "S&P Print Shop", "url": "https://custompoint.rrd.com/xs2/prelogin?CMPID=8081&qwerty=24070301" }
+      ]
+    },
+    {
+      "name": "About",
+      "url": "https://www.solerpalau-usa.com/company/about.html",
+      "type": "link"
+    },
+    {
+      "name": "Contact",
+      "url": "https://www.solerpalau-usa.com/contact.html",
+      "type": "dropdown",
+      "links": [
+        { "name": "Rep Locator", "url": "https://www.solerpalau-usa.com/resources/reps-us-map.html" },
+        { "name": "Product Returns", "url": "https://www.solerpalau-usa.com/resources/returns.html" }
+      ]
+    },
+    {
+      "name": "Careers",
+      "url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d088e0b78e018902f0aabd0d36",
+      "type": "link"
+    }
+  ]
+}
